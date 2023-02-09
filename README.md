@@ -11,7 +11,7 @@ This is a tool that helps you search for certain words in Microsoft Word documen
 4.  Find the line that says `search_replace_dict = {'cat': 'dog', 'car': 'bike', 'breakfast': 'dinner'}`. Replace this with the words you want to search and replace in the Microsoft Word documents. The format should be `{'word_to_search': 'word_to_replace_with', ...}`.
 5.  Save the changes you made to the code.
 6.  Open a terminal/command prompt window and navigate to the folder where you saved the code.
-7.  Type `python filename.py` (replace "filename" with the name of the code file you saved) and hit enter.
+7.  Type `python word_doc_search_replace.py` (replace "word_doc_search_replace.py" with the name of the code file you saved) and hit enter.
 8.  Wait for the tool to run and search for the words you specified. It will then replace those words in the Microsoft Word documents.
 
 ## What the Code Does
