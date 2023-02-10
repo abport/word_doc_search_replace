@@ -23,7 +23,7 @@ excel_file = '/path/to/excel/file/containing/words/to/find/and/replace/'
 4.  Run the script using Python:
 
 ```python
-python word_replace.py
+python word_doc_find_replace_excel.py
 ```
 
 The script will loop through all the Microsoft Word documents in the specified directory, find and replace the specified words, and save the updated documents.
